@@ -1,0 +1,6 @@
+framework module JJSliderView {
+  umbrella header "JJSliderView.h"
+
+  export *
+  module * { export * }
+}
